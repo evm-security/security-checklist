@@ -79,4 +79,4 @@ Auditing helps catch many bugs, but shouldn’t also be seen as a magic bullet. 
 
 Tipping: 0xB47E50B7B67971713f80eC7Ec26332f18a7CF738
 
-<i>70% of tips are contributed towards South Asian hunger eradication programs, farmer debt settlements, girl child education in rural India and urgent medical aid - this is under works w.r.t taxes (pls send good CAs my way!), charities (open to recommendations) and such. I'm personally absolutely disgusted by those who redirect public funds to personal use, I won't be doing that, and I'll work on providing proof for the donations. But don't be forced into tipping: I use personal funds whenever I can to help however I can. We'll figure out more ways to fund this, soon.</i> 
+<i>Part of funds go to charity. More [here]().</i> 
