@@ -76,7 +76,3 @@ Auditing helps catch many bugs, but shouldn’t also be seen as a magic bullet. 
 - [ ] Consider open source auditing such as [Code4rena](https://code4rena.com/) and [ImmuneFi](https://immunefi.com/)
 
 <hr>
-
-Tipping: 0xB47E50B7B67971713f80eC7Ec26332f18a7CF738
-
-<i>Part of funds go to charity. More [here]().</i> 
